@@ -1,4 +1,3 @@
-# python_scraping_assignment
 
 # Primenumbers Technologies
 
